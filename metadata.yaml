@@ -1,5 +1,8 @@
 _repo: Gray-Hairs-Made-Happy_65579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65579-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65579#Gray-Hairs-Made-Happy
 gutenberg_issued: '2021-06-09'
 gutenberg_type: Text
 identifiers:
